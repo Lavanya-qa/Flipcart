@@ -1,2 +1,5 @@
 # Flipcart
-This is project on flipcart to test website.
+This project is to test an E-commerce website flipcart.
+Navigate to the URL
+Login Page 
+Home Page
